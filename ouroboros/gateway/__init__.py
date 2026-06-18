@@ -1,0 +1,1 @@
+"""Gateway-facing application logic."""
